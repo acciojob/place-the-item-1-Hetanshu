@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.item{
+	height:50%;
+	width:50%;
+	background-color:black;
+}
